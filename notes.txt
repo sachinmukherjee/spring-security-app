@@ -1,0 +1,8 @@
+* We can change default spring security username and password to custom one by adding spring.security.user.name = and spring.security.user.password to application properties file
+* Authentication Manager manages the authentication in spring security.
+* We can configure the authentication with a builder class name AuthenticationManagerBuilder
+* Type of authentication(like in memory and all)
+* Always deal with hash password
+* For authorization use Http Security
+* Use most restrictive to least restrictive
+* Spring Security using JDBC,LDAP etc
